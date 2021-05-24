@@ -14,5 +14,5 @@ https://free.dswang.ga/
 https://www.linbaoz.com
 http://sspool.herokuapp.com
 
-r2ray地址
+# r2ray下载地址
 https://github.com/v2ray/v2ray-core/releases/latest
