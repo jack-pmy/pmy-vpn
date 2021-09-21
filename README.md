@@ -16,3 +16,6 @@ http://sspool.herokuapp.com
 
 # r2ray下载地址
 https://github.com/v2ray/v2ray-core/releases/latest
+ 
+订阅更新
+https://github.com/pojiezhiyuanjun/freev2
